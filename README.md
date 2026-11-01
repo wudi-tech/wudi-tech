@@ -26,3 +26,11 @@ Automation undergraduate interested in robotics and autonomous systems, with pro
 | [自行车视觉与雷达告警](https://github.com/wudi-tech/cycling-vision-radar) | 视觉与雷达联合触发原型、原始代码和已复现问题说明。 |
 
 各仓库提供实现、运行入口、贡献与来源说明，并分别记录历史结果和本轮检查。主要兴趣：**感知与控制、真实设备集成、人机交互、具身智能**。
+
+## 个人工具 · Personal tools
+
+| 工具 | 用途 |
+| --- | --- |
+| [Speaking Studio · 每日开口](https://github.com/wudi-tech/speaking-studio) | 本地口语练习：每日分组、四级提示、录音复盘；默认电脑文件保存，可选浏览器保存。公开附合成示例，不含个人练习数据。 |
+| [学习日历订阅](https://github.com/wudi-tech/study-calendar) | 供个人使用的学习日历订阅入口。 |
+| [日历订阅实现技能](https://github.com/wudi-tech/calendar-subscription-skill) | 可复用的ICS日历订阅生成、验证与发布实现。 |
